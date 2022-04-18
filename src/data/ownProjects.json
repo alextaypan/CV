@@ -2,31 +2,25 @@
   {
     "id": "id-1",
     "label": "Web Studio",
-    "link": "https://yer-web-studio.netlify.app/",
-    "tech": "HTML5, Sass"
+    "link": "https://alextaypan.github.io/goit-markup-hw-08/",
+    "tech": "HTML5, Sass, JavaScript"
   },
   {
     "id": "id-2",
     "label": "Image Finder",
-    "link": "https://yermakovaa.github.io/image-finder/",
+    "link": "https://alextaypan.github.io/goit-react-hw-04-images/",
     "tech": "React.js"
   },
   {
     "id": "id-3",
-    "label": "Weather",
-    "link": "https://yermakovaa.github.io/weather/",
+    "label": "Movies",
+    "link": "https://alex-movies-app.netlify.app/",
     "tech": "React.js"
   },
   {
     "id": "id-4",
-    "label": "Movies",
-    "link": "https://yer-movies.netlify.app/",
-    "tech": "React.js"
-  },
-  {
-    "id": "id-5",
     "label": "Phonebook",
-    "link": "https://yer-phonebook.netlify.app/",
+    "link": "https://alex-phonebook-app.netlify.app/",
     "tech": "React.js, Redux"
   }
 ]

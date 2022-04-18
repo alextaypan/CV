@@ -13,8 +13,8 @@
   },
   {
     "id": "id-3",
-    "label": "Pro Test",
-    "link": "https://protest-fsdev.netlify.app/",
-    "tech": "React.js, Redux, Node.js"
+    "label": "Reading Book",
+    "link": "https://creativers-readingbook-app.netlify.app/",
+    "tech": "React.js, Sass, Redux"
   }
 ]

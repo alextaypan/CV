@@ -1,32 +1,36 @@
 [
   {
     "id": "id-1",
-    "link": "tel:380506991179",
-    "text": "+38 050 699 11 79"
+    "link": "tel:380934966085",
+    "text": "+38 093 496 60 85"
   },
   {
     "id": "id-2",
-    "link": "mailto:yermak1037@gmail.com",
-    "text": "yermak1037@gmail.com"
+    "link": "mailto:yakoboleksandr@gmail.com",
+    "text": "yakoboleksandr@gmail.com"
   },
   {
     "id": "id-3",
-    "link": "https://yer-portfolio.netlify.app/",
+    "link": "https://app.netlify.com/",
     "text": "Portfolio"
   },
   {
     "id": "id-4",
-    "link": "https://github.com/yermakovaa/",
+    "link": "https://github.com/alextaypan/",
     "text": "GitHub"
   },
   {
     "id": "id-5",
-    "link": "https://www.linkedin.com/in/yermakovaa/",
+    "link": "https://www.linkedin.com/",
     "text": "LinkedIn"
   },
   {
     "id": "id-6",
-    "link": "https://t.me/ayermakova",
+    "link": "https://t.me/heavystonergod",
     "text": "Telegram"
+  },
+  {
+    "id": "id-6",
+    "text": "Kyiv, Ukraine"
   }
 ]
