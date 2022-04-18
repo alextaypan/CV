@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id-1",
+    "label": "Web Studio",
+    "link": "https://yer-web-studio.netlify.app/",
+    "tech": "HTML5, Sass"
+  },
+  {
+    "id": "id-2",
+    "label": "Image Finder",
+    "link": "https://yermakovaa.github.io/image-finder/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-3",
+    "label": "Weather",
+    "link": "https://yermakovaa.github.io/weather/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-4",
+    "label": "Movies",
+    "link": "https://yer-movies.netlify.app/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-5",
+    "label": "Phonebook",
+    "link": "https://yer-phonebook.netlify.app/",
+    "tech": "React.js, Redux"
+  }
+]

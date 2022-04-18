@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id-1",
+    "link": "tel:380506991179",
+    "text": "+38 050 699 11 79"
+  },
+  {
+    "id": "id-2",
+    "link": "mailto:yermak1037@gmail.com",
+    "text": "yermak1037@gmail.com"
+  },
+  {
+    "id": "id-3",
+    "link": "https://yer-portfolio.netlify.app/",
+    "text": "Portfolio"
+  },
+  {
+    "id": "id-4",
+    "link": "https://github.com/yermakovaa/",
+    "text": "GitHub"
+  },
+  {
+    "id": "id-5",
+    "link": "https://www.linkedin.com/in/yermakovaa/",
+    "text": "LinkedIn"
+  },
+  {
+    "id": "id-6",
+    "link": "https://t.me/ayermakova",
+    "text": "Telegram"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "id-1",
+    "label": "Ice cream",
+    "link": "https://andriivv.github.io/goit-markup-project-01//",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-2",
+    "label": "Event Booster",
+    "link": "https://nessy126.github.io/js-event-project/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-3",
+    "label": "Pro Test",
+    "link": "https://protest-fsdev.netlify.app/",
+    "tech": "React.js, Redux, Node.js"
+  }
+]

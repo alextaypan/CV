@@ -1,0 +1,15 @@
+[
+  {
+    "id": "id-1",
+    "university": "GoIT",
+    "label": "Certificate Course in Full stack developer",
+    "time": "April 2020 - April 2021",
+    "link": "https://drive.google.com/file/d/1v5HJE0s83hc9_UjdKOk7PQfPS1vMkUen/view"
+  },
+  {
+    "id": "id-2",
+    "university": "Donetsk State University of Management",
+    "label": "Master's degree - Finance and credit",
+    "time": "Septermber 2015 - January 2017"
+  }
+]

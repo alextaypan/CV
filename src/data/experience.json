@@ -1,0 +1,94 @@
+[
+  {
+    "id": "id-4",
+    "profession": "Junior Frontend Developer",
+    "company": "UnifyOrdering",
+    "time": "May 2021 - Present",
+    "country": "Ireland",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Teamwork experience."
+      },
+      {
+        "id": "2",
+        "duty": "Experience with code versioning tools (such as Git)."
+      },
+      {
+        "id": "3",
+        "duty": "Experience in web application development using React.js, Typescript."
+      },
+      {
+        "id": "4",
+        "duty": "Experience in creating a landing page on Next.js."
+      },
+      {
+        "id": "5",
+        "duty": "The layout of the web pages with clean cross-browser valid code using Figma."
+      }
+    ]
+  },
+  {
+    "id": "id-1",
+    "profession": "Accountant",
+    "company": "Private enterprise",
+    "time": "June 2017 - April 2020",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Accounting of several legal entities in the 1c program."
+      },
+      {
+        "id": "2",
+        "duty": "Organization and maintenance of all areas of accounting - from primary documentation to tax and accounting."
+      },
+      {
+        "id": "3",
+        "duty": "Data analysis in Excel."
+      }
+    ]
+  },
+  {
+    "id": "id-2",
+    "profession": "Call Center Operator",
+    "company": "PJSC Datagroup",
+    "time": "May 2017 - June 2017",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Providing Oschadbank clients with qualified advice on banking products and services."
+      },
+      {
+        "id": "2",
+        "duty": "Execution of operations on payment cards at the request of clients."
+      },
+      {
+        "id": "3",
+        "duty": "Experience with CRM-system."
+      }
+    ]
+  },
+  {
+    "id": "id-3",
+    "profession": "Laboratory assistant",
+    "company": "Donetsk State University of Management",
+    "time": "September 2015 - March 2017",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Record keeping in accordance with the standards of document circulation of the university."
+      },
+      {
+        "id": "2",
+        "duty": "Providing technical assistance in the preparation of methodological and educational documents (materials)."
+      },
+      {
+        "id": "3",
+        "duty": "Control over the execution of management orders."
+      }
+    ]
+  }
+]
