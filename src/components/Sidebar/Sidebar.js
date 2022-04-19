@@ -11,7 +11,7 @@ function Sidebar({ contacts, techSkills, softSkills }) {
     <aside className={s.sidebar}>
       <img src={myPhoto} alt="Oleksandr Yakob" className={s.photo} />
       <div className={s.section}>
-        <h3 className={s.title}>Contacts</h3>
+        <h3 className={s.title}>Contact Information</h3>
         <ul>
           {contacts.map(({ id, link, text }) => (
             <Contacts key={id} link={link} text={text} />
