@@ -10,6 +10,7 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
       <div className={s.section}>
         <h2 className={s.profession}>Front-end (React) Developer</h2>
         <h1 className={s.name}>Oleksandr Yakob</h1>
+        <h3 className={s.title}>Summary</h3>
         <p className={s.description}>
           I am a Front-End developer looking for a full-time position in a
           company that's aimed at making both everyday life and business easier,

@@ -1,93 +1,55 @@
 [
   {
-    "id": "id-4",
-    "profession": "Junior Frontend Developer",
-    "company": "UnifyOrdering",
-    "time": "May 2021 - Present",
-    "country": "Ireland",
-    "duties": [
-      {
-        "id": "1",
-        "duty": "Teamwork experience."
-      },
-      {
-        "id": "2",
-        "duty": "Experience with code versioning tools (such as Git)."
-      },
-      {
-        "id": "3",
-        "duty": "Experience in web application development using React.js, Typescript."
-      },
-      {
-        "id": "4",
-        "duty": "Experience in creating a landing page on Next.js."
-      },
-      {
-        "id": "5",
-        "duty": "The layout of the web pages with clean cross-browser valid code using Figma."
-      }
-    ]
-  },
-  {
-    "id": "id-1",
-    "profession": "Accountant",
-    "company": "Private enterprise",
-    "time": "June 2017 - April 2020",
+    "id": "id-3",
+    "profession": "Advocacy",
+    "time": "2020 - 2021",
     "country": "Ukraine",
     "duties": [
       {
         "id": "1",
-        "duty": "Accounting of several legal entities in the 1c program."
-      },
-      {
-        "id": "2",
-        "duty": "Organization and maintenance of all areas of accounting - from primary documentation to tax and accounting."
-      },
-      {
-        "id": "3",
-        "duty": "Data analysis in Excel."
+        "duty": "Commercial and civil law."
       }
     ]
   },
   {
     "id": "id-2",
-    "profession": "Call Center Operator",
-    "company": "PJSC Datagroup",
-    "time": "May 2017 - June 2017",
+    "profession": "Head of the legal department",
+    "company": "Kyivzelenbud Municipal Association",
+    "time": "2018 - 2019",
     "country": "Ukraine",
     "duties": [
       {
         "id": "1",
-        "duty": "Providing Oschadbank clients with qualified advice on banking products and services."
+        "duty": "Control over the observance of the rule of law at the enterprise, protection of its interests."
       },
       {
         "id": "2",
-        "duty": "Execution of operations on payment cards at the request of clients."
+        "duty": "Representation of the interests of the association in courts, controlling and law enforcement bodies, state bodies, enterprises, institutions and organizations."
       },
       {
         "id": "3",
-        "duty": "Experience with CRM-system."
+        "duty": "Control over the work of the legal department."
       }
     ]
   },
   {
     "id": "id-3",
-    "profession": "Laboratory assistant",
-    "company": "Donetsk State University of Management",
-    "time": "September 2015 - March 2017",
+    "profession": "Head of the legal department",
+    "company": "State-owned enterprise 'Ukrinteravtoservice'",
+    "time": "2016 - 2018",
     "country": "Ukraine",
     "duties": [
       {
         "id": "1",
-        "duty": "Record keeping in accordance with the standards of document circulation of the university."
+        "duty": "Control over the observance of the rule of law at the enterprise, protection of its interests."
       },
       {
         "id": "2",
-        "duty": "Providing technical assistance in the preparation of methodological and educational documents (materials)."
+        "duty": "Management of legal work at the enterprise."
       },
       {
         "id": "3",
-        "duty": "Control over the execution of management orders."
+        "duty": "Analysis of internal documents and business operations of the enterprise, its counterparties (individuals and / or legal entities) for compliance with applicable law, bringing documents in line with current legislation."
       }
     ]
   }
