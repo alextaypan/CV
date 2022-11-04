@@ -21,18 +21,22 @@
   },
   {
     "id": "id-6",
-    "label": "React.js"
+    "label": "TypeScript"
   },
   {
     "id": "id-7",
-    "label": "Redux"
+    "label": "React.js"
   },
   {
     "id": "id-8",
-    "label": "Webpack"
+    "label": "Redux"
   },
   {
     "id": "id-9",
+    "label": "Webpack"
+  },
+  {
+    "id": "id-10",
     "label": "Parcel"
   }
 ]

@@ -15,9 +15,10 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
           I am a Front-End developer looking for a full-time position in a
           company that's aimed at making both everyday life and business easier,
           more productive and user-friendly. I have sound knowledge of HTML,
-          CSS, JavaScript, and React. Also, I have hands-on experience in
-          following Agile /Scrum methodology when working in a team. I am a fast
-          learner, responsible, and ready for challenging tasks.
+          CSS, JavaScript(TypeScript), and React. Also, I have hands-on
+          experience in following Agile /Scrum methodology when working in a
+          team. I am a fast learner, responsible, and ready for challenging
+          tasks.
         </p>
       </div>
       <div className={s.section}>
